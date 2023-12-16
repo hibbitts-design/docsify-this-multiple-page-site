@@ -4,7 +4,7 @@
 
 # Topic 3
 
-And yet here is some more sample **Markdown** content, including a table with headers.
+And yet here is some more sample [Markdown](https://en.wikipedia.org/wiki/Markdown) content, including a table with headers.
 
 | Option | Description |
 | ------ | ----------- |

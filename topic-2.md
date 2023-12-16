@@ -4,7 +4,7 @@
 
 # Topic 2
 
-And here is some more sample **Markdown** content, including using two column text.
+And here is some more sample [Markdown](https://en.wikipedia.org/wiki/Markdown) content, including using two column text.
 
 <div class="row">
 <div class="column">
