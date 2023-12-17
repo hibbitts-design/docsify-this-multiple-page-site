@@ -44,9 +44,17 @@ And here is embedding the a YouTube video using Markdown where an automatically 
 
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)  
 
+```markdown
+[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)
+```
+
 And finally here is the same YouTube video using an iFrame to show the movie within the page itself, which is automatically made responsive when displayed by Docsify-This!  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ?si=B21RBO1krg9McbGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ?si=B21RBO1krg9McbGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+```
 
 Go to [topic-1](topic-1.md)
 
