@@ -6,11 +6,11 @@
 
 And yet here is some more sample [Markdown](https://en.wikipedia.org/wiki/Markdown) content, including a table with headers.
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to **supply** the data that will be passed into templates. |
-| engine | engine to be used for _processing_ templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 And here is an example table with different column alignments.
 
