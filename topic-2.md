@@ -40,6 +40,10 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 </div>
 </div>
 
+And here is an embedded YouTube video, which is automatically made responsive by Docsify-This!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ?si=B21RBO1krg9McbGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Go to [topic-1](topic-1.md)
 
 Go to [topic-3](topic-3.md)
