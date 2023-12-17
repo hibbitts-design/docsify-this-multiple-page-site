@@ -40,7 +40,11 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 </div>
 </div>
 
-And here is an embedded YouTube video, which is automatically made responsive when displayed by Docsify-This!
+And here is embedding the a YouTube video using Markdown where an automatically generated preview graphic is shown and when tapped will go to the source YouTube page.  
+
+[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JlJIrF4YjHfQ)  
+
+And finally here is the same YouTube video using an iFrame to show the movie within the page itself, which is automatically made responsive when displayed by Docsify-This!  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ?si=B21RBO1krg9McbGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
