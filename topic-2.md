@@ -42,10 +42,10 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 
 And here is embedding the a YouTube video using Markdown where an automatically generated preview graphic is shown and when tapped will go to the source YouTube page.  
 
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)  
+[![Embed videos and playlists](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)  
 
 ```markdown
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)
+[![Embed videos and playlists](https://img.youtube.com/vi/lJIrF4YjHfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJIrF4YjHfQ)
 ```
 
 And finally here is the same YouTube video using an iFrame to show the movie within the page itself, which is automatically made responsive when displayed by Docsify-This!  
