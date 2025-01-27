@@ -19,6 +19,15 @@ And here is an example table with different column alignments.
 |Align left| Align right|center text|
 |cell data1|cell data2|cell data3|
 
+And here is an example responsive grid gallery by including images in a list.
+
+* ![Letter V](https://fakeimg.pl/400x400?text=V) 
+* ![Letter W](https://fakeimg.pl/400x400?text=W)
+* ![Letter X](https://fakeimg.pl/400x400?text=X)
+* ![Letter V](https://fakeimg.pl/400x400?text=V) 
+* ![Letter W](https://fakeimg.pl/400x400?text=W)
+* ![Letter X](https://fakeimg.pl/400x400?text=X)
+
 And finally, here is an example of tabs used to present several sections of information.
 
 <!-- tabs:start -->
