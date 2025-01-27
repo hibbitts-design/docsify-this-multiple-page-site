@@ -15,8 +15,7 @@ Lorem **ipsum** _dolor_ sit amet, consectetur adipiscing elit. Fusce molestie ia
 - Faucibus porta lacus fringilla vel
 - Aenean sit amet erat nunc
 
-![The Markdown Mark](images/markdown-red.png)  
-_Figure 1: The Markdown Mark_  
+![Figure 1: The Markdown Mark](images/markdown-red.png)
 
 Go to [topic-2](topic-2.md)
 
