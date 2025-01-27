@@ -28,6 +28,15 @@ And here is an example responsive grid gallery by including images in a list.
 * ![Letter W](https://fakeimg.pl/400x400?text=W)
 * ![Letter X](https://fakeimg.pl/400x400?text=X)
 
+And here is an example responsive grid gallery with linked images.
+
+* [![Letter_V]( https://fakeimg.pl/400x400?text=V)](https://fakeimg.pl/400x400?text=V)
+* [![Letter_W]( https://fakeimg.pl/400x400?text=W)](https://fakeimg.pl/400x400?text=W)
+* [![Letter_X]( https://fakeimg.pl/400x400?text=X)](https://fakeimg.pl/400x400?text=X)
+* [![Letter_V]( https://fakeimg.pl/400x400?text=V)](https://fakeimg.pl/400x400?text=V)
+* [![Letter_W]( https://fakeimg.pl/400x400?text=W)](https://fakeimg.pl/400x400?text=W)
+* [![Letter_X]( https://fakeimg.pl/400x400?text=X)](https://fakeimg.pl/400x400?text=X)
+
 And finally, here is an example of tabs used to present several sections of information.
 
 <!-- tabs:start -->
